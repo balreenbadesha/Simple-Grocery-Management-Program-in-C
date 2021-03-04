@@ -1,0 +1,19 @@
+AN001;11;11.00;11;121.00
+AG001;July biscuits;5.35;11;121.00
+AN001;Asam;1.20;11;13.20
+AN001;Asam;1.20;11;13.20
+AN001;Asam;1.20;11;13.20
+AG001;July biscuits;5.35;11;13.20
+AG001;July biscuits;5.35;11;0.00
+AN001;Asam;1.20;11;13.20
+AG001;July biscuits;5.35;11;13.20
+AN001;Asam;1.20;11;13.20
+AG001;July biscuits;5.35;11;13.20
+AG001;July biscuits;5.35;11;62.38
+AN001;Asam;1.20;11;13.20
+AG001;July biscuits;5.35;11;13.20
+AG001;July biscuits;5.35;11;0.00
+BG001;Maximu Bun;3.50;11;0.00
+BN001;Beef Bone;20.90;11;229.90
+DG001;Donkey Donuts;3.80;11;41.80
+CN001;Chicken Keel;8.00;11;88.00
